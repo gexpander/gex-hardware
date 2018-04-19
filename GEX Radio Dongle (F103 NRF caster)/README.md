@@ -12,4 +12,6 @@ includes full SPI and 3 other GPIOs, which could be used for other applications 
 
 This board uses STM32F103C8T6 (same like Bluepill), so the firmware should be bluepill compatible.
 
+![pic](gd1c1.PNG)
+
 ![pic](gd1c2.PNG)
