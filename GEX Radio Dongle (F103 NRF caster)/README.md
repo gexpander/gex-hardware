@@ -11,3 +11,5 @@ There are no GPIOs broken out due to the limited board size, other than those us
 includes full SPI and 3 other GPIOs, which could be used for other applications if the NRF module is not installed.
 
 This board uses STM32F103C8T6 (same like Bluepill), so the firmware should be bluepill compatible.
+
+![pic](gd1c2.PNG)
