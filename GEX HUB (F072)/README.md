@@ -15,3 +15,5 @@ rev.2 changes
 
 The BOOT jumper is now inside the A connector, 
 and the function is reversed - insert a jumper between BOOT and 3V3 to enter bootloader.
+
+![photo2](gex-idc-rev2-top.PNG)
