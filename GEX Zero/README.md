@@ -54,3 +54,8 @@ PB12 and PB14 can only be used as regular GPIO when the radio link is enabled, n
 left unconnected, as there is no available remap for the clock line.
 
 The radio module is used for remote control with the GEX Dongle and provides a fast, half duplex connection.
+
+## BUGS
+
+- One of the I2C pull-ups is at the wrong pin in the header (off by one, easy fix by cutting a trace and shorting with solder)
+- Pins PB15 and PB14 should be swapped in the connector for SPI pHATs compatibility (when the bototm SPI port is used)
